@@ -2,8 +2,8 @@
 
 A data visualization project built in Tableau to track the progress and distribution of COVID-19 vaccines globally. This dashboard provides key insights into vaccination rates, regional performance, and total doses administered to support public understanding and data-driven decision-making.
 
-![Global Vaccine Tracker](COVID_19_Global_Vaccine_Tracker.png)  
-*Global COVID-19 Vaccine Tracker*
+![COVID-19 Global Vaccine Tracker](COVID_19_Global_Vaccine_Tracker.png)  
+*COVID-19 Global Vaccine Tracker*
 
 ---
 
